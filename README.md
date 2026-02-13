@@ -39,7 +39,7 @@ A premium, modern, and highly interactive cafe website built with **React 19**, 
 
 2. Navigate to the project directory:
    ```bash
-   cd coffee
+   cd Cafe
    ```
 
 3. Install dependencies:
