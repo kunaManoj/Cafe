@@ -11,7 +11,7 @@ export const products = [
     },
     {
         id: 'c2',
-        name: "Caramel Macchiato",
+        name: "Macchiato",
         category: "Coffee",
         description: "Espresso with vanilla syrup, milk, and caramel drizzle.",
         price: "$5.20",
@@ -60,7 +60,7 @@ export const products = [
     },
     {
         id: 'd2',
-        name: "Chocolate Lava Cake",
+        name: "Choco Lava Cake",
         category: "Desserts",
         description: "Decadent chocolate cake with a molten center.",
         price: "$6.50",
@@ -171,7 +171,7 @@ export const products = [
     // More Breakfast
     {
         id: 'b3',
-        name: "Bagel with Cream Cheese",
+        name: "Bagel with Cheese",
         category: "Breakfast",
         description: "Toasted bagel with a generous spread of cream cheese.",
         price: "$3.50",
