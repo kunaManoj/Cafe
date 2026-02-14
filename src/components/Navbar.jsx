@@ -129,10 +129,10 @@ export default function Navbar() {
                             className="fixed inset-0 bg-coffee-950/20 backdrop-blur-md z-40 md:hidden"
                         />
                         <motion.div
-                            initial={{ opacity: 0, scale: 0.95, y: -20 }}
-                            animate={{ opacity: 1, scale: 1, y: 0 }}
-                            exit={{ opacity: 0, scale: 0.95, y: -20 }}
-                            className="fixed top-24 left-1/2 -translate-x-1/2 w-[94%] glass-premium rounded-[32px] sm:rounded-[40px] z-50 p-8 sm:p-10 shadow-2xl md:hidden flex flex-col items-center gap-6 sm:gap-8 border border-white/40"
+                            initial={{ opacity: 0, scale: 0.95, y: -20, x: "-50%" }}
+                            animate={{ opacity: 1, scale: 1, y: 0, x: "-50%" }}
+                            exit={{ opacity: 0, scale: 0.95, y: -20, x: "-50%" }}
+                            className="fixed top-24 left-1/2 w-[94%] glass-premium rounded-[32px] sm:rounded-[40px] z-50 p-8 sm:p-10 shadow-2xl md:hidden flex flex-col items-center gap-6 sm:gap-8 border border-white/40"
                         >
                             <div className="flex flex-col gap-4 sm:gap-6 w-full text-center">
                                 {navLinks.map((link, i) => (
