@@ -61,6 +61,7 @@ The project follows a **"Warm Glass"** design philosophy, combining the cozy war
 - **Layered transparency** to create depth and visual interest.
 - **Physical-based animations** that react to user interaction and scroll position.
 
----
+## 🌟 visit the site!
 
-Crafted with ❤️ for coffee lovers everywhere.
+https://cafe-phi-eight.vercel.app/
+
